@@ -19,8 +19,6 @@ bio: My research interests include xyz.
 # Interests to show in About widget
 interests:
 - Social Trust
-- Computational Linguistics
-- Information Retrieval
 
 # Education to show in About widget
 education:
