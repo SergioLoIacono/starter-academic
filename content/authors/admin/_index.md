@@ -68,6 +68,6 @@ email: ""
 highlight_name: false
 ---
 
-Sergio Lo Iacono is a postdoctoral researcher...
+Sergio Lo Iacono is a postdoctoral researcher... where is this?
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
