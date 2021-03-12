@@ -3,9 +3,9 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Sergio Lo Iacono # Sergio Lo Iacono
-baseurl: 'https://sergio-lo-iacono.netlify.app/' # https://sergio-lo-iacono.netlify.app/
-copyright: '' # Footer text, e.g. '© {year} Me'
+title: Sergio Lo Iacono 
+baseurl: 'https://sergio-lo-iacono.netlify.app/' 
+copyright: '' 
 
 ############################
 ## LANGUAGE
